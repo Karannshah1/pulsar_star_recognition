@@ -4,3 +4,6 @@ Pulsars are a rare type of Neutron star that produce radio emission beam which i
 
 
 Machine learning tools are used to automatically label and classify pulsar candidates for rapid analysis. Classification of the candidate data sets as binary classification problems. In this, I have done the process of data operations on the Kaggle Predicting-Pulsar star data-set, and various models are been trained on the transformed data-set in which SVM is most performs best with an accuracy of 97.9% on test data.
+
+This is image of comparison of result of various Machine leaning models.
+
