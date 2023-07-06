@@ -7,5 +7,5 @@ Machine learning tools are used to automatically label and classify pulsar candi
 
 This is image of comparison of result of various Machine leaning models.
 
-[!main_graph]https://github.com/Karannshah1/pulsar_star_recognition/main_graph.jpg
+![main_graph]https://github.com/Karannshah1/pulsar_star_recognition/main_graph.jpg
 
